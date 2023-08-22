@@ -1,4 +1,4 @@
-# Set up a "Hello world" project as one app with Webpack
+# hello-rails-back-end
 
 <a name="readme-top"></a>
 
@@ -6,7 +6,7 @@
 
 # 📗 Table of Contents
 
-- [Hello World](#-Set-up-a-"Hello-world"-project-as-one-app-with-Webpack)
+- [hello-rails-back-end](#-hello-rails-back-end)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 et up a "Hello world" project as one app with Webpack app](#-Set-up-a-"Hello-world"-project-as-one-app-with-Webpack-app-)
   - [🛠 Built With ](#-built-with-)
@@ -26,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Set up a "Hello world" project as one app with Webpack app <a name="about-project"></a>
+# 📖 hello-rails-back-end <a name="about-project"></a>
 
-**Set up a "Hello world" project as one app with Webpack** is an application that implement a connection between a Ruby on Rails back-end and React front-end.
+**hello-rails-back-end** is a RoR back-end application that implement a connection with [hello-rails-front-end](https://github.com/oovillagran/hello-react-front-end).
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -36,7 +36,6 @@
 
 - Ruby
 - PostgreSQL
-- JavaScript
 
 </details>
 
@@ -97,13 +96,7 @@ rails server
 ```
 In your preferred browser, navigate to:
 ```
-http://localhost:3000
-```
-
-### Run tests
-To run tests, run the following command in the terminal:
-```
-rspec
+http://localhost:3000/api/greetings/random
 ```
 
 <!-- AUTHORS -->
@@ -142,7 +135,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project you can give us a hand by recommending either one of us to potential employers! 😉🤝
+If you like this project you can give me a hand by recommending me to potential employers! 😉🤝
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
