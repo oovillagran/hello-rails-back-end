@@ -28,7 +28,7 @@
 
 # 📖 hello-rails-back-end <a name="about-project"></a>
 
-**hello-rails-back-end** is a RoR back-end application that implement a connection with [hello-rails-front-end](https://github.com/oovillagran/hello-react-front-end).
+**hello-rails-back-end** is a RoR back-end application that implement a connection with [hello-react-front-end](https://github.com/oovillagran/hello-react-front-end).
 
 ## 🛠 Built With <a name="built-with"></a>
 
